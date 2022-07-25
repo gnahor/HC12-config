@@ -1,0 +1,21 @@
+{
+    "name": "HC12config",
+    "version": "1.0.0",
+    "description": "Some helpful functions surrounding the HC-12 programming mode",
+    "keywords": "HC12, HC-12",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/gnahor/HC12-config"
+    },
+    "authors":
+    [
+      {
+        "name": "Simon Wabnig",
+        "email": "simon.wabnig@gmail.com"
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "Arduino",
+    "platforms": "espressif32"
+  }
